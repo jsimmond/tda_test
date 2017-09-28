@@ -1,5 +1,5 @@
 public class Node {
-    private int value;
+    private int valor;
     private Node previous;
     private Node next;
 
