@@ -2,6 +2,8 @@ public class Node {
     private int value;
     private Node previous;
     private Node next;
+	
+	// making changes
 
     public void setValue(int value) {
         this.value = value;
