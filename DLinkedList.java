@@ -1,6 +1,6 @@
 
 public class DLinkedList {
-    private Node Headholahola, tail;
+    private Node Headholaholalalalla, tail;
     private Node n,c, r, br, Nr;
 
     public DLinkedList() {
